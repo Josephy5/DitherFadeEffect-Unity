@@ -10,7 +10,7 @@ A very simple dither fading shader effect that uses dithering to fade in and out
 part of my studies in shader development. It is meant to be for Unity 2019 URP (2019.3.35f1) but it can work in other unity versions (like Unity 6 or Unity 2022)
 and other pipelines (like Built-In). This repo is meant to be a reliable and accessible resource to create the simple dither fading effect.
 
-This is very simple to implement and intergrate to any material shader effect. But if your effect does need to depend on alpha & alpha clipping for
+This is very simple and easy to create from scratch and intergrate to any material shader effect. But if your effect does need to depend on alpha & alpha clipping for
 other uses, you will need to find a way to blend the dither fading with whatever effect that relies on alpha & alpha clipping. This repo is to
 provide a reliable and accessible means to create the simple dither fading.
 
