@@ -7,7 +7,7 @@
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)
  
 A very simple dither fading shader effect that uses dithering to fade in and out based on camera distance. It was created for Serious Point Games as 
-part of my studies in shader development. It is meant to be for Unity URP (2019.3.35f1) but it can work in other unity versions (like Unity 6 or Unity 2022)
+part of my studies in shader development. It is meant to be for Unity 2019 URP (2019.3.35f1) but it can work in other unity versions (like Unity 6 or Unity 2022)
 and other pipelines (like Built-In). This repo is meant to be a reliable and accessible resource to create the simple dither fading effect.
 
 This is very simple to implement and intergrate to any material shader effect. But if your effect does need to depend on alpha & alpha clipping for
