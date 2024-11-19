@@ -1,7 +1,10 @@
 ![DitherFade](https://github.com/user-attachments/assets/b596c586-0fbe-413c-8721-7d74170ead0d)
 
 # Dither Fading Shader Effect
-![Unity Version](https://img.shields.io/badge/Unity-2019.3%9LTS%2B-blueviolet?logo=unity)
+![Unity Version](https://img.shields.io/badge/Unity-2021.3%9LTS%2B-blueviolet?logo=unity)
+![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)
+![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
+![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)
  
 A very simple dither fading shader effect that uses dithering to fade in and out based on camera distance. It was created for Serious Point Games as 
 part of my studies in shader development. It is meant to be for Unity URP (2019.3.9f1) but it can work in other unity versions (like Unity 6 or Unity 2022)
